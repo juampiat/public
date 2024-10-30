@@ -6,5 +6,5 @@
 
 
 
->> BACK to [[readme]]
->> Ir a [[proyectos]]
+>> BACK to [Readme](../readme.md)
+>> Ir a [Proyectos](../proyectos.md)

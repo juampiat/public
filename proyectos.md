@@ -12,5 +12,5 @@ to DJ (Sound Projects)
 
 
 
->> BACK to [[readme]]
-Go to [[papers]]
+>> BACK to [Readme](readme.md)
+Go to [Papers](./howto/papers.md)
