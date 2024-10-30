@@ -7,3 +7,12 @@ kubectl get pods -o wide
 ```
 ##### Verifica el estado del Deployment 
 kubectl get deployment
+
+
+
+
+
+
+>> BACK to [[readme]]
+
+ Ir a [[proyectos]]
