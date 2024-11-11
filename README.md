@@ -4,7 +4,7 @@ Last update: 11-11-2024
 
 ## Papers & How-to 
  * [Link](./howto/papers.md)
-## > Proyectos 
+## > Proyectos. 
 
 * Acceso a Proyectos Activos en Github > [proyectos](./proyectos.md)
 * Acceso a Forks Activos >  [forks](./forks.md)
