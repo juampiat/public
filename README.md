@@ -1,4 +1,4 @@
-Last update: 30-10-2024
+Last update: 11-11-2024
 ## > About / Sobre
 * [Linkedin Profile](https://www.linkedin.com/in/juan-pablo-perez-a862bb54/)
 
